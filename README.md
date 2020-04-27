@@ -1,2 +1,2 @@
 # say_time
-this script says the time
+This Script Says The Time!
